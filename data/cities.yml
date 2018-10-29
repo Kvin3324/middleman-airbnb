@@ -1,0 +1,11 @@
+# shanghai:
+#   picture: "https://kitt.lewagon.com/placeholder/cities/shanghai"
+- name: 'Shanghai'
+  picture: "https://kitt.lewagon.com/placeholder/cities/shanghai"
+# avatar: "https://kitt.lewagon.com/placeholder/users/ssaunier"
+- name: "paris"
+  picture: "https://kitt.lewagon.com/placeholder/cities/paris"
+# avatar: "https://kitt.lewagon.com/placeholder/users/alex-felix"
+- name: "barcelona"
+  picture: "https://kitt.lewagon.com/placeholder/cities/barcelona"
+# avatar: "https://kitt.lewagon.com/placeholder/users/eschults"
